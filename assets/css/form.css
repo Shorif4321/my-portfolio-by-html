@@ -1,0 +1,20 @@
+.custom{
+    width: 80%;
+    height: 35px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.custom-textarea{
+    width: 80%;
+    margin-bottom: 10px;
+    align-items: center;
+}
+#status.success {
+    background-color: green;
+    animation: status 4s ease forwards;
+    width: 80%;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin-bottom: 17px;
+  }
